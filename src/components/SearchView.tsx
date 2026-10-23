@@ -26,7 +26,7 @@ function SearchView({
   return (
     <main>
       <section className="hero-section">
-        <p className="eyebrow">THE ART INSTITUTE OF CHICAGO</p>
+        <p className="eyebrow">CLEVELAND MUSEUM OF ART</p>
         <h1>
           Art is everywhere.
           <br />
